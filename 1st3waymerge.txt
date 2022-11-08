@@ -1,3 +1,6 @@
 praticing the 3way Mergerdgit add 
 2. adding the second line
 third line
+html
+https://github.com
+forward
