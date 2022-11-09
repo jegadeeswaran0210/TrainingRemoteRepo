@@ -1,0 +1,14 @@
+welcome
+welcome.txt
+welcomeFolder
+/1stIgnoreFile.txt
+ignoreFolder/1stIgnoreFile.txt
+*.sh
+*vi
+Hidden/*.txt
+2ndHidden/*.log
+!2ndHidden/function.log
+2ndHidden/function1?.log
+2ndHidden/label1[1-2].txt
+2ndHidden/*.log
+2ndHidden/*txt
